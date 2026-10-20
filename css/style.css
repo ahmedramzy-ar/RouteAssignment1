@@ -1,0 +1,135 @@
+body{
+    background-color:azure;
+    margin: 0;
+    
+}
+header{
+    /* background-color:antiquewhite; */
+     background-color:aliceblue;
+    text-align: center;
+    padding: 10px;
+    border-radius: 17px;
+    border: 2px solid  bisque;
+    margin:40px;
+    
+    
+}
+header h1{
+    font-size: 35px;
+}
+header .button-Con
+{
+    background-color:antiquewhite;
+    border:1px solid  rgb(232, 229, 225);
+    border-radius: 17px;
+   font-size: 20px;
+}
+.About
+{
+    background-color:aliceblue;
+    border: 1px solid   rgb(232, 229, 225);
+    margin: 40px;
+    padding: 20px;
+    overflow: auto;
+    border-radius: 17px;
+}
+.About h2,.style-line{
+    text-align:left;
+    border-bottom: 2px solid rgb(212, 199, 171);
+    margin-top: 0px;
+}
+.About .img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: left;
+}
+.About p{
+    padding-top: 50px;
+    word-spacing: 5px;
+}
+.About p span{
+    color:rgb(113, 29, 191);
+    font-size: 25px;
+}
+ .style-button
+ {
+    border: 0;
+    background-color: rgb(226, 203, 163);
+    border-radius: 17px;
+ }
+.style-a {
+    border: 0;
+    font-size: 20px;
+    background-color: rgb(226, 203, 163);
+    border-radius: 17px;
+    text-decoration: none;
+}
+
+.About{
+    padding-left: 20px;
+}
+.Skills
+{
+    background-color:aliceblue;
+    border: 1px solid   rgb(232, 229, 225);
+    margin: 40px;
+    padding: 20px;
+    overflow: auto;
+    border-radius: 17px;
+    
+}
+.style-skills
+{
+    float: left;
+    border: 1px solid   rgb(232, 229, 225);
+    border-radius: 17px;
+    padding: 10px;
+    margin: 20px;
+    
+}
+.Experience
+{
+    background-color:aliceblue;
+    border: 1px solid   rgb(232, 229, 225);
+    margin: 40px;
+    padding: 20px;
+    overflow: auto;
+    border-radius: 17px;
+    
+}
+.style-img
+{
+    width: 100px;
+    height: 100px;
+    float: left;
+    border: 1px solid   rgb(232, 229, 225);
+}
+.style-Experience
+{
+    
+    overflow: auto;
+    margin: 20px;
+    border: 1px solid   rgb(237, 138, 9);
+    border-radius: 17px;
+    padding: 20px;
+    
+    
+}
+.Contact
+{
+ background-color:aliceblue;
+    border: 1px solid   rgb(232, 229, 225);
+    margin: 40px;
+    padding: 20px;
+    overflow: auto;
+    border-radius: 17px;
+}
+.Contact button
+{
+    font-size: 25px;
+    
+}
+
